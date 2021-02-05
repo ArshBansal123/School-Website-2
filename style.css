@@ -1,0 +1,85 @@
+#campus{
+    text-align:center;}
+
+#achievments{text-align:center;}
+
+#home img {
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+    width 1000px;
+    height: 500px;
+}
+
+#home {
+    text-align: center;
+
+}
+
+.line {
+    height: 6px;
+   
+    width: 70px;
+    margin: 6px auto;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+#about {
+    text-align: center;
+
+}
+
+
+#videos {
+    text-align: center;
+
+}
+
+
+.movie_head
+{
+    margin: 30px;
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 1200px;
+    display: inline-block;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+.travel_mainDiv
+{
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.campusDiv img
+{
+  width: 100%;
+}
+
+.campusDiv hr
+{
+    width: 230px; 
+}
+
+.campusDiv h5 , .travel_mainDiv p
+{
+margin-left: 20px;
+}
+
+body{background-color: cadetblue;}
